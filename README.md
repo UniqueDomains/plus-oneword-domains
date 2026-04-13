@@ -79,10 +79,10 @@ print(df.head())
 | trinity.plus   | available | $21.99    | $60.99        | 72             | 30     | 7      | name.com                                                |
 | prompt.plus    | resell    | —         | —             | 114            | 68     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | vehicle.plus   | premium   | $260      | $260          | 94             | 21     | 7      | namecheap                                               |
-| wicked.plus    | available | $21.99    | $60.99        | 70             | 30     | 6      | name.com                                                |
+| vice.plus      | available | $21.99    | —             | 56             | 29     | 4      | name.com                                                |
 | fleet.plus     | resell    | —         | —             | 62             | 68     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | teen.plus      | premium   | $123.75   | $123.75       | 104            | 19     | 4      | name.com                                                |
-| vice.plus      | available | $21.99    | —             | 56             | 29     | 4      | name.com                                                |
+| dead.plus      | available | $21.99    | $60.99        | 74             | 28     | 4      | name.com                                                |
 | habitat.plus   | resell    | —         | —             | 74             | 66     | 7      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

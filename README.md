@@ -1,22 +1,22 @@
-# Available .PLUS One-Word Domains (8,430)
+# Available .PLUS One-Word Domains (10,789)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C430%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C430%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C789%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .plus one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .plus one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,789 domains** on the canonical page below.
 
-**Public extract:** 8,430 rows · **Live catalog:** 8,430 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,789 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/plus`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PLUS one-word domain 
 
 ### Files
 
-- `plus.csv` — public CSV extract (8,430 rows)
-- `plus.json` — public JSON extract (8,430 rows)
+- `plus.csv` — public CSV extract (1,000 rows)
+- `plus.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| jesus.plus     | available | $21.99    | —             | 88             | 50     | 5      | name.com                                                |
-| loft.plus      | resell    | —         | —             | 64             | 99     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| gear.plus      | premium   | $82.50    | —             | 72             | 30     | 4      | name.com                                                |
-| conscious.plus | available | $21.99    | $60.99        | 89             | 36     | 9      | name.com                                                |
-| test.plus      | resell    | —         | —             | 72             | 89     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| after.plus     | premium   | $21.99    | $60.99        | 100            | 27     | 5      | name.com                                                |
-| nimble.plus    | available | $21.99    | $60.99        | 94             | 33     | 6      | name.com                                                |
-| affinity.plus  | resell    | —         | —             | 74             | 81     | 8      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| wireless.plus  | premium   | $128.70   | $128.70       | 106            | 24     | 8      | namecheap                                               |
-| lovely.plus    | available | $21.99    | $60.99        | 72             | 31     | 6      | name.com                                                |
-| boss.plus      | resell    | —         | —             | 76             | 73     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| dry.plus       | premium   | $123.75   | $123.75       | 80             | 23     | 3      | name.com                                                |
-| trinity.plus   | available | $21.99    | $60.99        | 72             | 30     | 7      | name.com                                                |
-| prompt.plus    | resell    | —         | —             | 114            | 68     | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| vehicle.plus   | premium   | $260      | $260          | 94             | 21     | 7      | namecheap                                               |
-| vice.plus      | available | $21.99    | —             | 56             | 29     | 4      | name.com                                                |
-| fleet.plus     | resell    | —         | —             | 62             | 68     | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| teen.plus      | premium   | $123.75   | $123.75       | 104            | 19     | 4      | name.com                                                |
-| dead.plus      | available | $21.99    | $60.99        | 74             | 28     | 4      | name.com                                                |
-| habitat.plus   | resell    | —         | —             | 74             | 66     | 7      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| commonground.plus | available | $21.99    | —             | 74             | 28     | 13     | name.com                                            |
+| info.plus         | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC                                         |
+| schools.plus      | premium   | $123.75   | —             | 72             | 24     | 7      | name.com                                            |
+| pops.plus         | available | $21.99    | —             | 74             | 24     | 4      | name.com                                            |
+| agents.plus       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC                                    |
+| herbs.plus        | premium   | $250      | —             | 62             | 22     | 5      | name.com                                            |
+| deeplearning.plus | available | $21.99    | —             | 74             | 23     | 13     | name.com                                            |
+| robots.plus       | resell    | —         | —             | 62             | 47     | 6      | DNSPod, Inc.                                        |
+| designs.plus      | premium   | $250      | —             | 72             | 21     | 7      | name.com                                            |
+| Snapchat.plus     | available | $72.98    | —             | 88             | 22     | 8      | namecheap                                           |
+| skills.plus       | resell    | —         | —             | 58             | 47     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| apartments.plus   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo                                            |
+| CapeCod.plus      | available | $72.98    | —             | 78             | 22     | 8      | namecheap                                           |
+| tokens.plus       | resell    | —         | —             | 51             | 36     | 6      | DNSPod, Inc.                                        |
+| trucks.plus       | premium   | $250      | —             | 55             | 19     | 6      | name.com                                            |
+| brothers.plus     | available | $21.99    | —             | 60             | 22     | 8      | name.com                                            |
+| etc.plus          | resell    | —         | —             | 58             | 34     | 3      | DNSPod, Inc.                                        |
+| nails.plus        | premium   | $82.50    | —             | 62             | 18     | 5      | name.com                                            |
+| origins.plus      | available | $21.99    | —             | 46             | 22     | 7      | name.com                                            |
+| payments.plus     | resell    | —         | —             | 58             | 33     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,430-row public sample | 8,430 live domains                               |
+| 1,000-row public sample | 10,789 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

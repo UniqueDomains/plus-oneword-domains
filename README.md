@@ -1,10 +1,10 @@
-# Available .PLUS One-Word Domains (10,789)
+# Available .PLUS One-Word Domains (11,241)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C789%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C241%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .plus one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,789 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,241 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,789 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,241 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/plus`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | CapeCod.plus      | available | $72.98    | —             | 78             | 22     | 8      | namecheap                                           |
 | tokens.plus       | resell    | —         | —             | 51             | 36     | 6      | DNSPod, Inc.                                        |
 | trucks.plus       | premium   | $250      | —             | 55             | 19     | 6      | name.com                                            |
-| brothers.plus     | available | $21.99    | —             | 60             | 22     | 8      | name.com                                            |
-| etc.plus          | resell    | —         | —             | 58             | 34     | 3      | DNSPod, Inc.                                        |
-| nails.plus        | premium   | $82.50    | —             | 62             | 18     | 5      | name.com                                            |
 | origins.plus      | available | $21.99    | —             | 46             | 22     | 7      | name.com                                            |
+| etc.plus          | resell    | —         | —             | 58             | 34     | 3      | DNSPod, Inc.                                        |
+| templates.plus    | premium   | $82.50    | —             | 54             | 17     | 9      | name.com                                            |
+| unicorns.plus     | available | $21.99    | —             | 73             | 21     | 8      | name.com                                            |
 | payments.plus     | resell    | —         | —             | 58             | 33     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,789 live domains                              |
+| 1,000-row public sample | 11,241 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

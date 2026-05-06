@@ -615,6 +615,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ab0a1c0-3ce7-4e0c-b71f-314b7a0eba61,seemed.plus,available,21.99,,58,4,6,name.com,,
 3adc66cd-f754-4830-b066-dec5899e1dd2,lightsout.plus,available,21.99,,56,12,10,name.com,,
 3aec0a1b-89f9-4960-b6d2-6272d64b970f,transports.plus,available,21.99,,52,7,10,name.com,,
+3aee860d-7aff-48ad-a443-7bd05e5155bb,hero.plus,resell,,,76,44,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),16/02/2025 13:20,16/02/2027 13:20
 3afc95ee-acd7-4d3e-bc06-d01533da2615,recycled.plus,available,21.99,,79,10,8,name.com,,
 3b1cca92-a498-44ae-8fec-56cc12aef782,Iputittoyou.plus,available,72.98,,50,1,15,namecheap,,
 3b70c989-2e32-4610-844a-01420aca9d24,proxybullying.plus,available,21.99,,28,1,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e90e059-dd05-4114-9a34-5b4024a47d4b,notifies.plus,available,21.99,,50,3,8,name.com,,
 5e9112e5-f7ec-4970-94d4-f96db33d0c3f,divinejustice.plus,available,21.99,,49,2,14,name.com,,
 5eb25e36-5f50-46a5-9de9-40cf667d953a,singleout.plus,available,21.99,,72,1,10,name.com,,
-5ecb2240-aeb5-48f4-9bf0-6cc2059ed56f,toweather.plus,available,21.99,,48,1,10,name.com,,

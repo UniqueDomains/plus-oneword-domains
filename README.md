@@ -1,10 +1,10 @@
-# Available .PLUS One-Word Domains (11,242)
+# Available .PLUS One-Word Domains (11,246)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C242%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C246%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .plus one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,242 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,246 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,242 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,246 domains · **Median ask:** $27.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/plus`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| Acup.plus         | available | $72.98    | —             | 80             | 5      | 5      | namecheap                                           |
+| barup.plus        | available | $21.99    | —             | 82             | 2      | 6      | name.com                                            |
+| forces.plus       | available | $21.99    | —             | 82             | 12     | 6      | name.com                                            |
+| dogsit.plus       | available | $21.99    | —             | 96             | 2      | 6      | name.com                                            |
+| edamame.plus      | available | $21.99    | —             | 80             | 9      | 7      | name.com                                            |
+| playin.plus       | available | $21.99    | —             | 80             | 10     | 7      | name.com                                            |
+| QandA.plus        | available | $72.98    | —             | 80             | 10     | 7      | namecheap                                           |
+| dogsick.plus      | available | $21.99    | —             | 90             | 1      | 7      | name.com                                            |
+| FabFour.plus      | available | $21.99    | —             | 82             | 3      | 8      | name.com                                            |
 | commonground.plus | available | $21.99    | —             | 74             | 28     | 13     | name.com                                            |
 | info.plus         | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC                                         |
 | schools.plus      | premium   | $123.75   | —             | 72             | 24     | 7      | name.com                                            |
@@ -75,15 +84,6 @@ print(df.head())
 | designs.plus      | premium   | $250      | —             | 72             | 21     | 7      | name.com                                            |
 | Snapchat.plus     | available | $72.98    | —             | 88             | 22     | 8      | namecheap                                           |
 | skills.plus       | resell    | —         | —             | 58             | 47     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| apartments.plus   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo                                            |
-| CapeCod.plus      | available | $72.98    | —             | 78             | 22     | 8      | namecheap                                           |
-| tokens.plus       | resell    | —         | —             | 51             | 36     | 6      | DNSPod, Inc.                                        |
-| trucks.plus       | premium   | $250      | —             | 55             | 19     | 6      | name.com                                            |
-| origins.plus      | available | $21.99    | —             | 46             | 22     | 7      | name.com                                            |
-| etc.plus          | resell    | —         | —             | 58             | 34     | 3      | DNSPod, Inc.                                        |
-| templates.plus    | premium   | $82.50    | —             | 54             | 17     | 9      | name.com                                            |
-| unicorns.plus     | available | $21.99    | —             | 73             | 21     | 8      | name.com                                            |
-| payments.plus     | resell    | —         | —             | 58             | 33     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,242 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,246 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of one-word .plus domains. The set spans dictionary-style words, action phrases compressed into one token, and short brandable forms such as Acup.plus, finals.plus, jewels.plus, getup.plus, and dogsit.plus. For founders, the main question is whether the word is easy to remember and still feels credible on .plus. For investors, the key check is whether the ask leaves room for resale relative to the extension’s narrower buyer pool. The median ask is 27.57, which keeps entry cost low, but .plus is a non-mainstream ending, so buyer fit and renewal discipline matter more than volume.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .plus names with low median entry pricing
+- Examples include Acup.plus, getup.plus, and jewels.plus
+- Best judged on memorability, fit, and renewal discipline
+- .plus can narrow demand versus more mainstream endings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

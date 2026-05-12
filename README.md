@@ -79,10 +79,10 @@ print(df.head())
 | pops.plus         | available | $21.99    | —             | 74             | 24     | 4      | name.com                                            |
 | agents.plus       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC                                    |
 | herbs.plus        | premium   | $250      | —             | 62             | 22     | 5      | name.com                                            |
-| deeplearning.plus | available | $21.99    | —             | 74             | 23     | 13     | name.com                                            |
+| Snapchat.plus     | available | $72.98    | —             | 88             | 23     | 8      | namecheap                                           |
 | robots.plus       | resell    | —         | —             | 62             | 47     | 6      | DNSPod, Inc.                                        |
 | designs.plus      | premium   | $250      | —             | 72             | 21     | 7      | name.com                                            |
-| Snapchat.plus     | available | $72.98    | —             | 88             | 22     | 8      | namecheap                                           |
+| deeplearning.plus | available | $21.99    | —             | 74             | 23     | 13     | name.com                                            |
 | skills.plus       | resell    | —         | —             | 58             | 47     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

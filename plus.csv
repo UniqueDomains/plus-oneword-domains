@@ -954,6 +954,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59905910-4361-46f2-9458-9cf4875c3247,collapses.plus,available,21.99,,38,1,9,name.com,,
 599369f6-377a-4bc2-a89b-4c3449362b17,remembered.plus,available,21.99,,65,8,10,name.com,,
 59a57c38-5f0a-4f4e-ae37-de4714482996,reads.plus,available,21.99,,54,10,5,name.com,,
+59b60731-071e-4b5a-8680-62167605c0eb,WhiteHouse.plus,resell,,,66,25,11,"Spaceship, Inc.",17/02/2026 14:02,17/02/2027 14:02
 5a193062-cb7e-4ec0-98da-df07b5250e54,standardizing.plus,available,21.99,,43,1,13,name.com,,
 5a1b65a5-fb69-45c3-bfb7-f99a64468bf2,eachway.plus,available,21.99,,68,2,8,name.com,,
 5a342c14-d157-404d-82ac-4f212713149d,carols.plus,available,21.99,,56,7,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e88b36f-6de0-4018-a820-9db0922b11bb,socialstatus.plus,available,21.99,,64,6,13,name.com,,
 5e90e059-dd05-4114-9a34-5b4024a47d4b,notifies.plus,available,21.99,,50,3,8,name.com,,
 5e9112e5-f7ec-4970-94d4-f96db33d0c3f,divinejustice.plus,available,21.99,,49,2,14,name.com,,
-5eb25e36-5f50-46a5-9de9-40cf667d953a,singleout.plus,available,21.99,,72,1,10,name.com,,

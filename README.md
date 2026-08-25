@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .plus one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,633 domains · **Median ask:** $14.81 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/plus`
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | azo.plus    | available | $4.98     | $72.98        | low            | low    | 3      | namecheap                                           |
 | oyster.plus | resell    | $21.99    | —             | medium         | low    | 6      | Spaceship, Inc.                                     |
-| bag.plus    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| bag.plus    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                            |
 | bye.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
 | aim.plus    | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
 | lcd.plus    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

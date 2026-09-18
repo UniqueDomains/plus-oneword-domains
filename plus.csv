@@ -1,9 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 8472d350-0dcc-4f65-876f-b62ec18b7833,stagingarea.plus,available,21.99,,medium,low,12,name.com,,,
 b93bd13a-00f8-4377-94f3-622748be1c8d,marines.plus,available,21.99,,high,low,7,name.com,,,
-5653afdd-74a9-426f-a3c8-3d7e6bc5251f,ground.plus,resell,,,high,low,6,"DNSPod, Inc.",11/07/2020 13:28,11/07/2026 13:28,
+5653afdd-74a9-426f-a3c8-3d7e6bc5251f,ground.plus,resell,,,high,low,6,"DNSPod, Inc.",11/07/2020 13:28,11/07/2027 13:28,17/09/2026 10:15
 35475731-c7a9-4075-a7c5-b8f57420884c,confess.plus,available,21.99,,high,low,7,name.com,,,
-4805b1a2-4ea1-40ca-9ac8-dbcbf3b90132,material.plus,resell,,,high,low,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/07/2018 21:07,21/07/2026 21:07,
+4805b1a2-4ea1-40ca-9ac8-dbcbf3b90132,material.plus,resell,,,high,low,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/07/2018 21:07,21/07/2027 21:07,17/09/2026 10:25
 80040cf8-bee8-4e72-ba5e-60923aa92a8b,outloud.plus,available,4.98,72.98,low,low,8,namecheap,,,13/09/2026 19:13
 04295e6f-04fe-4732-893c-dd87d9f795bd,ticketwindow.plus,available,21.99,,medium,low,13,name.com,,,
 1dae5a44-af40-4ef8-98c1-af1d22eda109,prevenient.plus,available,4.98,72.98,low,low,10,namecheap,,,
@@ -500,7 +500,7 @@ ed4bed43-6fbd-4afa-ae67-cfb7665d206c,artistry.plus,available,,,high,low,8,,,,
 6320e4c2-153c-429b-8ce9-de46996f7d66,fillout.plus,available,4.98,72.98,low,low,8,namecheap,,,17/08/2026 23:11
 3cbb44c2-e3a0-4950-8a68-592fc8b1fbbc,nursery.plus,available,21.99,,medium,low,7,name.com,,,
 0d518b0b-4b36-471e-bea6-2ca11bea353e,agonadal.plus,available,4.98,72.98,low,low,8,namecheap,,,
-cd909ae2-cd43-48d3-8f68-d04ec330c529,tieup.plus,available,21.99,,low,low,6,name.com,,,
+cd909ae2-cd43-48d3-8f68-d04ec330c529,tieup.plus,available,15.99,53.99,low,low,6,namesilo,,,17/09/2026 14:23
 0d3e7a1c-a22d-40fd-b193-279eb1001261,cautionary.plus,available,4.98,72.98,low,low,10,namecheap,,,
 44c5ce11-73c7-46ef-8f71-e58279e26bea,hangloose.plus,available,21.99,,high,low,10,name.com,,,
 5401d871-4d82-4967-9998-bfb9b9208ebd,armorclad.plus,available,4.98,72.98,low,low,10,namecheap,,,06/08/2026 20:05
@@ -573,7 +573,7 @@ fbecdf12-7b39-4cb5-9b6c-1ed22a5515ab,captain.plus,available,21.99,,high,low,7,na
 d0635c37-7616-4379-b76c-2568429deed6,bounce.plus,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/02/2025 15:15,06/02/2027 15:15,
 0608570b-6a08-4425-9116-201724e5f779,wakingup.plus,available,21.99,,high,low,9,name.com,,,
 d4d94fc5-ac6e-465d-bc67-be860ab64e02,fortyfour.plus,available,4.98,72.98,low,low,10,namecheap,,,
-8c15e84f-8068-4205-8126-8b2e0151f2f9,help.plus,resell,,,medium,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/07/2015 16:00,08/07/2026 16:00,
+8c15e84f-8068-4205-8126-8b2e0151f2f9,help.plus,resell,,,medium,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",08/07/2015 16:00,08/07/2027 16:00,17/09/2026 22:18
 5d98ebd8-8ebe-482b-855d-78e6294790e3,commission.plus,available,21.99,,high,low,10,name.com,,,
 1e4df397-dad5-4b85-b03d-5c60e18fb5d5,androgenic.plus,available,4.98,72.98,low,low,10,namecheap,,,
 95f78d74-1023-483b-b149-27d4cb88eff9,sheeyit.plus,available,21.99,,medium,low,7,name.com,,,
@@ -685,7 +685,7 @@ ad70a9bf-9976-42fb-bb3c-d985c04e4167,nosecount.plus,available,21.99,,low,low,10,
 e1104d6e-ea48-4c6d-9613-b7fcc2c83334,await.plus,available,21.99,,high,low,5,name.com,,,
 1109de19-a1b0-49e9-9fae-9cf74f8b3128,midFebruary.plus,available,21.99,,high,low,12,name.com,,,
 4480a7e9-64bb-470d-bd1f-dc0c8d82248f,tercet.plus,available,4.98,72.98,low,low,6,namecheap,,,
-c8e9c121-e6a1-40ec-9fe0-14c9549cc777,paint.plus,resell,,,medium,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",11/07/2015 04:41,11/07/2026 04:41,
+c8e9c121-e6a1-40ec-9fe0-14c9549cc777,paint.plus,resell,,,medium,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",11/07/2015 04:41,11/07/2027 04:41,18/09/2026 02:55
 4adb7d04-ef70-4107-9ec5-d118be5db470,hokey.plus,available,4.98,72.98,low,low,5,namecheap,,,09/08/2026 00:37
 c573263d-20d1-41cf-b6b4-df04c3ad0d42,lag.plus,available,,,medium,low,3,,,,
 c81c5185-cd08-469f-be78-a1dc6ab22c7f,procrastinate.plus,available,21.99,,medium,low,13,name.com,,,
@@ -950,7 +950,7 @@ ba2699ca-8fe6-401d-bea9-ec984c806ac2,inshort.plus,available,21.99,,medium,low,8,
 3120dc04-867d-480b-8284-5c2bff200a4e,underwear.plus,premium,118.8,118.8,medium,low,9,namesilo,,,
 58e1e34c-311d-46ed-8586-27efe845c1c4,smashing.plus,available,4.98,72.98,low,low,8,namecheap,,,08/08/2026 12:53
 7b8dca0e-a7e7-45be-8b2d-4cd6b562ce07,optout.plus,available,21.99,,high,low,7,name.com,,,
-7d629e15-7314-4fb9-a38d-94050b007dc9,counter.plus,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",03/07/2024 17:11,03/07/2026 17:11,
+7d629e15-7314-4fb9-a38d-94050b007dc9,counter.plus,resell,,,high,low,7,"DNSPod, Inc.",03/07/2024 17:11,03/07/2027 17:11,17/09/2026 13:26
 7320cdf2-5a76-47e1-963f-942524039d6d,century.plus,resell,,,medium,low,7,"DNSPod, Inc.",05/02/2025 15:15,05/02/2027 15:15,
 b2aa6868-0fb0-4354-82d0-aeed631ba641,necessity.plus,available,21.99,,high,low,9,name.com,,,
 4ad6be07-61f3-464e-9422-6405b601f007,spry.plus,available,4.98,72.98,low,low,4,namecheap,,,

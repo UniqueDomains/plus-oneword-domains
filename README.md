@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .plus one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,621 domains · **Median ask:** $11.98 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/plus`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| sorry.plus   | available | $21.99    | $60.99        | high           | low    | 5      | name.com                                     |
-| ground.plus  | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                                 |
-| present.plus | available | $21.99    | —             | high           | low    | 7      | name.com                                     |
-| azo.plus     | available | $4.98     | $72.98        | low            | low    | 3      | namecheap                                    |
-| oyster.plus  | resell    | $21.99    | —             | medium         | low    | 6      | Spaceship, Inc.                              |
-| bag.plus     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                     |
-| bye.plus     | available | $21.99    | —             | high           | low    | 3      | name.com                                     |
-| aim.plus     | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                 |
-| lcd.plus     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| cot.plus     | available | $21.99    | —             | high           | low    | 3      | name.com                                     |
-| ape.plus     | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| lp.plus      | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                     |
-| due.plus     | available | $21.99    | —             | high           | low    | 3      | name.com                                     |
-| bud.plus     | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                 |
-| Iam.plus     | premium   | $854      | $854          | high           | medium | 4      | namesilo                                     |
-| err.plus     | available | $21.99    | —             | high           | low    | 3      | name.com                                     |
-| law.plus     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| fiber.plus   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                     |
-| had.plus     | available | $21.99    | —             | high           | low    | 3      | name.com                                     |
-| men.plus     | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                 |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| azo.plus    | available | $4.98     | $72.98        | low            | low    | 3      | namecheap                                           |
+| oyster.plus | resell    | $21.99    | —             | medium         | low    | 6      | Spaceship, Inc.                                     |
+| bag.plus    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                            |
+| bye.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
+| aim.plus    | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| lcd.plus    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| cot.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
+| ape.plus    | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| lp.plus     | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                            |
+| due.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
+| bud.plus    | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| iam.plus    | premium   | $854      | $854          | high           | medium | 4      | namesilo                                            |
+| err.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
+| law.plus    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
+| fiber.plus  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                            |
+| had.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
+| men.plus    | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| quiet.plus  | premium   | $21.99    | —             | high           | low    | 5      | name.com                                            |
+| him.plus    | available | $21.99    | —             | high           | low    | 3      | name.com                                            |
+| pan.plus    | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PLUS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
